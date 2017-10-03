@@ -1,0 +1,114 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:4895988184460406449",
+      "lastPropertyId": "6:227304583929042702",
+      "name": "BdInfo",
+      "properties": [
+        {
+          "id": "1:2089520284459747434",
+          "name": "id"
+        },
+        {
+          "id": "2:700701731626285201",
+          "name": "xm"
+        },
+        {
+          "id": "3:2542177039582070340",
+          "name": "sfzh"
+        },
+        {
+          "id": "4:2891960676475322856",
+          "name": "bdsj"
+        },
+        {
+          "id": "5:773799218859438267",
+          "name": "bdjg"
+        },
+        {
+          "id": "6:227304583929042702",
+          "name": "bdfs"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:8800297135228003052",
+      "lastPropertyId": "4:8285823316721283108",
+      "name": "DataDownload",
+      "properties": [
+        {
+          "id": "1:672199083134209772",
+          "name": "id"
+        },
+        {
+          "id": "2:7438619242502427487",
+          "name": "dataCatalog"
+        },
+        {
+          "id": "3:2745088569887308195",
+          "name": "xzsj"
+        },
+        {
+          "id": "4:8285823316721283108",
+          "name": "count"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:4018683704038785692",
+      "lastPropertyId": "3:6861349180816598217",
+      "name": "SdryInfo",
+      "properties": [
+        {
+          "id": "1:42126963950221554",
+          "name": "id"
+        },
+        {
+          "id": "2:734187354534215431",
+          "name": "bh"
+        },
+        {
+          "id": "3:6861349180816598217",
+          "name": "sfzh"
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4:4668642085679222910",
+      "lastPropertyId": "3:959726895393884104",
+      "name": "ZtryInfo",
+      "properties": [
+        {
+          "id": "1:8718979510823712343",
+          "name": "id"
+        },
+        {
+          "id": "2:6226079211912134527",
+          "name": "bh"
+        },
+        {
+          "id": "3:959726895393884104",
+          "name": "sfzh"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "4:4668642085679222910",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
